@@ -87,4 +87,4 @@ Get Help and Version Info
 Name	Command
 See the general help for Helm	helm –help
 See help for a particular command	helm [command] –help
-See the installed version of Helm	helm version
+See the installed version of Helm	helm version....
